@@ -82,7 +82,7 @@ const App = () => {
       title: "Hack United",
       discription:
         "501c3 developing soft skills for students interested in tech through hackathons.",
-      github: "#",
+      github: "",
       projectLink: "https://www.hackunited.org/",
     },
     {
@@ -90,36 +90,65 @@ const App = () => {
       title: "Clone Writer",
       discription:
         "501c3 developing soft skills for students interested in tech through hackathons.",
-      github: "#",
+      github: "",
       projectLink: "https://www.clonewriter.study",
     },
     {
       imageUrl: "/images/Projects/Knowtions.png",
       title: "Knowtions",
       discription: "PennApps 2024 Hackathon Project.",
-      github: "#",
+      github: "",
       projectLink: "https://www.youtube.com/watch?v=Fg4sgKxOpNo&ab",
     },
     {
       imageUrl: "/images/Projects/ListenLearn.png",
       title: "Listen Learn",
       discription: "OmiApps 2024 Hackathon Project.",
-      github: "#",
+      github: "https://github.com/TCYTseven/OmiAppsHackathon",
       projectLink: "https://youtu.be/18Z7d7nFJB0?si=J_Zrvmz8by9HcHaY",
     },
     {
       imageUrl: "/images/Projects/PeaceCraft.png",
       title: "Peace Craft",
       discription: "scrapped ReactJS app",
-      github: "#",
-      projectLink: "#",
+      github: "",
+      projectLink: "",
     },
     {
       imageUrl: "/images/Projects/SightSense.png",
       title: "Sight Sense",
       discription: "TreasureHacks 2023 Hackathon Project.",
-      github: "#",
+      github: "https://github.com/TCYTseven/SightSense",
       projectLink: "https://www.youtube.com/watch?v=8oHfDr4EhWY&ab",
+    },
+    {
+      imageUrl: "/images/Projects/AutoTrust.png",
+      title: "Auto Trust",
+      discription: "HackNYU 2025 Hackathon Project.",
+      github: "https://github.com/TCYTseven/AutoTrust",
+      projectLink: "",
+    },
+    {
+      imageUrl: "/images/Projects/Poker.png",
+      title: "Poker? I hardly know her",
+      discription: "Scrapyard Hackathon Project.",
+      github: "https://github.com/TCYTseven/poker",
+      projectLink: "https://youtu.be/JVtFxCJw5ng",
+    },
+    {
+      imageUrl: "/images/Projects/Prosthetic.png",
+      title: "Pro-sthetic",
+      discription:
+        "First Place at CJCP Hacks 2025; Third Place at Monty Hacks 2025",
+      github: "",
+      projectLink: "",
+    },
+    {
+      imageUrl: "/images/Projects/RetroRings.png",
+      title: "Retro Rings",
+      discription: "Codedex 2024 Summer Hackathon Project.",
+      github: "https://github.com/TCYTseven/RetroRings",
+      projectLink: "",
     },
   ];
 
