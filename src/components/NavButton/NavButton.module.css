@@ -1,0 +1,22 @@
+.navButton {
+  font-size: 15px;
+  font-weight: 500;
+  height: 30px;
+  padding: 0 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navButton:hover {
+  background-color: #dfdfdf;
+  transform: translateY(-2px);
+}
+
+@media (min-width: 1536px) {
+  .navButton {
+    font-size: 20px;
+  }
+}

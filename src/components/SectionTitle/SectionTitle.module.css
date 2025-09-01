@@ -1,0 +1,42 @@
+.rightLine {
+  height: 1px;
+  width: 68px;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(232, 232, 232, 1) 100%
+  );
+}
+
+.leftLine {
+  height: 1px;
+  width: 68px;
+  background: linear-gradient(
+    90deg,
+    rgba(232, 232, 232, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+h2 {
+  font-size: 24px;
+  color: #575757;
+}
+
+@media (min-width: 640px) {
+  .leftLine,
+  .rightLine {
+    width: 196px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .leftLine,
+  .rightLine {
+    width: 209px;
+  }
+}

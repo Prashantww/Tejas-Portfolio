@@ -1,0 +1,29 @@
+.card {
+  height: 236px;
+  width: 278px;
+  background-color: #f6f6f6;
+  border-radius: 13px;
+  padding: 6px;
+  box-shadow: 4px 4px 41px rgba(0, 0, 0, 0.06);
+}
+
+.card p {
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 121.4%;
+}
+
+@media (min-width: 1536px) {
+  .card {
+    height: 300px;
+    width: 382px;
+  }
+
+  .cardImage {
+    width: 370px;
+  }
+
+  .card p {
+    font-size: 12px;
+  }
+}

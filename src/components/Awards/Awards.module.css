@@ -1,0 +1,27 @@
+.awardLogo {
+  height: 45px;
+  box-shadow: 0 4px 13.5px rgba(0, 0, 0, 0.07);
+  border-radius: 50%;
+}
+
+.position {
+  font-size: 12px;
+  color: #6c6c6c;
+}
+
+@media (min-width: 768px) {
+  .position {
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .position {
+    font-size: 15px;
+  }
+
+  .awardLogo {
+    height: 54px;
+    width: 54px;
+  }
+}
