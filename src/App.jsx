@@ -82,7 +82,7 @@ const App = () => {
       title: "Hack United",
       discription:
         "501c3 developing soft skills for students interested in tech through hackathons.",
-      github: "",
+      github: "https://github.com/TCYTseven/hackunited-org",
       projectLink: "https://www.hackunited.org/",
     },
     {
