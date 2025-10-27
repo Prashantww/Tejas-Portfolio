@@ -2,7 +2,7 @@
 
 A modern, fully responsive portfolio website built for a US-based client to showcase their work, achievements, and services with an elegant design and smooth user experience.
 
-![Project Preview](public/projectPreview.png)
+![Project Preview](public/images/projectPreview.png)
 
 ## Tech Stack
 
