@@ -32,5 +32,5 @@ I designed and developed a fully responsive website using modern frontend techno
 
 If you’d like to connect or discuss a project, reach me here:
 
-- **Twitter:** [@yourhandle](https://x.com/prashant_kvian)
+- **Twitter:** [@prashant_kvian](https://x.com/prashant_kvian)
 - **Email:** prashant1warghude@gmail.com
